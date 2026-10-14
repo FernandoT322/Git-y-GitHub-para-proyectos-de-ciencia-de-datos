@@ -81,28 +81,6 @@ git push origin main
 - Cada documento contiene referencias directas a la edición oficial en español de *Pro Git*.
 - Cada documento Word tiene una versión PDF equivalente.
 
-## Qué subir a GitHub
-
-Sube el contenido de esta carpeta al repositorio, reemplazando los campos entre corchetes por tus datos. Como mínimo, incluye:
-
-- `README.md`
-- Los tres archivos `.docx`.
-- Los tres archivos `.pdf` de la carpeta `pdf/`.
-- Las evidencias solicitadas por el docente, si son archivos permitidos.
-
-## Confirmación final
-
-Antes de entregar, ejecuta:
-
-```bash
-git status
-git add .
-git commit -m "docs: entregar actividad práctica de Git y GitHub"
-git push origin main
-```
-
-Después, abre la URL de tu repositorio en GitHub y verifica que todos los archivos sean visibles.
-
 ## Referencias
 
 Chacon, S., y Straub, B. *Pro Git*, 2.ª edición, versión oficial en español. https://git-scm.com/book/es/v2
